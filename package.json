@@ -1,0 +1,15 @@
+{
+  "name": "scraper-analysis",
+  "version": "1.0.0",
+  "description": "Scraping text from a site and doing its sentiment analysis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^9.1.1",
+    "sentiment": "^5.0.2"
+  }
+}
